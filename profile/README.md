@@ -25,9 +25,9 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 | Machine Learning        | M505B4KY4128   | [Shawn Davies Sugianto](https://github.com/ShawndeSheep) | [Shawn Davies Sugianto](https://www.linkedin.com/in/shawn-davies-sugianto/)      |
 | Machine Learning             | M193B4KY2821   | [Muhammad Farhan Fadhila](https://github.com/) | [Muhammad Farhan Fadhila](https://www.linkedin.com/in/muhfarhanfadhila/)      |
 | Machine Learning             | M197B4KY4425   | [Vincent Alexander Purnomo](https://github.com/Rouinc) | [Vincent Alexander Purnomo](https://www.linkedin.com/in/vincent-purnomo-405092269/)      |
-| Mobile Development      | C193B4KY3317   | [Nendy Rafi Akmal Manik](https://github.com/nendyrafi0) | [Nendy Rafi Akmal Manik](https://www.linkedin.com/in/nendy-rafi-akmal-m-8abbb4286/)      |
-| Mobile Development | C213B4KY1757   | [Hela Dixman](https://github.com/heladixman) | [Hela Dixman](https://www.linkedin.com/in/heladixman/)      |
-| Cloud Computing    | A158B4KY2398   | [Marcello Ilham](https://github.com/Marcelloaja) | [Marcello Ilham](https://www.linkedin.com/in/marcelloilham/)      |
+| Cloud Computing      | C193B4KY3317   | [Nendy Rafi Akmal Manik](https://github.com/nendyrafi0) | [Nendy Rafi Akmal Manik](https://www.linkedin.com/in/nendy-rafi-akmal-m-8abbb4286/)      |
+| Cloud Computing | C213B4KY1757   | [Hela Dixman](https://github.com/heladixman) | [Hela Dixman](https://www.linkedin.com/in/heladixman/)      |
+| Mobile Development    | A158B4KY2398   | [Marcello Ilham](https://github.com/Marcelloaja) | [Marcello Ilham](https://www.linkedin.com/in/marcelloilham/)      |
 | Cloud Computing      | A678B4KY3914   | [Rizki Nugroho](https://github.com/rizkinugrohho) | [Rizki Nugroho](https://www.linkedin.com/in/rizki-nugroho/)      |
 
 ## 🚀 Project Branches
