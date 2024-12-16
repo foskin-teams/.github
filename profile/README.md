@@ -28,7 +28,6 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 | Cloud Computing      | C193B4KY3317   | [Nendy Rafi Akmal Manik](https://github.com/nendyrafi0) | [Nendy Rafi Akmal Manik](https://www.linkedin.com/in/nendy-rafi-akmal-m-8abbb4286/)      |
 | Cloud Computing | C213B4KY1757   | [Hela Dixman](https://github.com/heladixman) | [Hela Dixman](https://www.linkedin.com/in/heladixman/)      |
 | Mobile Development    | A158B4KY2398   | [Marcello Ilham](https://github.com/Marcelloaja) | [Marcello Ilham](https://www.linkedin.com/in/marcelloilham/)      |
-| Mobile Development      | A678B4KY3914   | [Rizki Nugroho](https://github.com/rizkinugrohho) | [Rizki Nugroho](https://www.linkedin.com/in/rizki-nugroho/)      |
 
 ## 🚀 Project Branches
 
